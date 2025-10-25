@@ -36,7 +36,7 @@ Built using **React + Tailwind CSS**, this project demonstrates modular UI desig
 
 ## 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/user-profiles-management.git
+git clone https://github.com/Ayila-Parimala/user-profiles-management
 cd user-profiles-management
 ```
 
